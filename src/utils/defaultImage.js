@@ -1,0 +1,1 @@
+export const defaultImage="https://bmgator.org/wp-content/uploads/2022/01/hebecartoon.png";

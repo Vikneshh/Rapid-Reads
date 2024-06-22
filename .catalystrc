@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "6703000000005074",
+      "name": "Newsapp",
+      "domain": {
+        "id": "50018965056",
+        "name": "newsapp-60028875058.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60028875058",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
